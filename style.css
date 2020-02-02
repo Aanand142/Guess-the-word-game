@@ -71,8 +71,6 @@ button.btn:hover , button.btn:active, button.btn:focus{
 
 }
 .msg{
-    text-transform: uppercase;
-    
     text-align: center;
     font-size: 1.5em;
     color: #F3DEDE;
